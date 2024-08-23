@@ -1,0 +1,6 @@
+{
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true,
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false
+}
