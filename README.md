@@ -1,10 +1,21 @@
-<div align="center">
-  <h3>📌 Typescript basics</h3>
-</div>
+### 📌 Basic Typescript code
 
-<h4>
-- functions
-- arrays
-- loops
-  
-</h4>
+<br>
+
+- Strings 📝
+- Booleans ✅❌
+- Variables 📍
+- If statements ❓
+- Ternary if 🚦❓
+- Switch 🔗
+- Loops 🔄
+- Comparison operators ❗🟰◀️▶️
+- Arrays 🛒
+- Objects 🗳️
+- Async await 🔁
+- Callbacks 🔙
+- Functions 🅕
+- Promise/Promise all 💯
+- Hoisting ❕
+- Type coercion ↔️
+
